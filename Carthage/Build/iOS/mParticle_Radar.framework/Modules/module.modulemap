@@ -1,0 +1,6 @@
+framework module mParticle_Radar {
+  umbrella header "mParticle_Radar.h"
+
+  export *
+  module * { export * }
+}

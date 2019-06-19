@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "7.8.4",
+  "iOS" : [
+    {
+      "name" : "mParticle_Radar",
+      "hash" : "50bea47092f949f259ecd78669ffb3805d6a154004bbc7b680968ddd63e8a831"
+    }
+  ]
+}
